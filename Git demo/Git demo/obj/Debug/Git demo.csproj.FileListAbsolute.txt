@@ -1,1 +1,6 @@
 C:\Users\Sam\Downloads\VS Projects Sam\Git\SampleProject\Git demo\Git demo\bin\Debug\Git demo.exe.config
+C:\Users\Sam\Downloads\VS Projects Sam\Git\SampleProject\Git demo\Git demo\bin\Debug\Git demo.exe
+C:\Users\Sam\Downloads\VS Projects Sam\Git\SampleProject\Git demo\Git demo\bin\Debug\Git demo.pdb
+C:\Users\Sam\Downloads\VS Projects Sam\Git\SampleProject\Git demo\Git demo\obj\Debug\Git demo.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Downloads\VS Projects Sam\Git\SampleProject\Git demo\Git demo\obj\Debug\Git demo.exe
+C:\Users\Sam\Downloads\VS Projects Sam\Git\SampleProject\Git demo\Git demo\obj\Debug\Git demo.pdb

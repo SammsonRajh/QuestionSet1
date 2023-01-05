@@ -10,6 +10,13 @@ namespace Git_demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter 1st Value");
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter 2nd Value");
+            int b = int.Parse(Console.ReadLine());
+
+            int sum = a + b;
+            Console.WriteLine(sum);
         }
     }
 }
