@@ -17,6 +17,14 @@ namespace Git_demo
 
             int sum = a + b;
             Console.WriteLine(sum);
+
+            int diff = Math.Abs(a-b);
+            Console.WriteLine(diff);
+
+            int product = a * b;
+            Console.WriteLine(product);
+
+
         }
     }
 }
